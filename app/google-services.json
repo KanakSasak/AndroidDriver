@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713144445335",
+    "firebase_url": "https://e-pul-b4984.firebaseio.com",
+    "project_id": "e-pul-b4984",
+    "storage_bucket": "e-pul-b4984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713144445335:android:e7f5107957ccaf2b",
+        "android_client_info": {
+          "package_name": "levitation.project.kanaksasak.e_pul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713144445335-1m459n4sr6vk90spm1saacsnuqg2h4ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "levitation.project.kanaksasak.e_pul",
+            "certificate_hash": "179f360682a74eb211727fda91123e05126261a8"
+          }
+        },
+        {
+          "client_id": "713144445335-htav1e7nl90qe830nepu3d66i7pc9ft8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7I5b__GJi_6nH8u-aYO4hFsiCqKK3Ms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713144445335-htav1e7nl90qe830nepu3d66i7pc9ft8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
